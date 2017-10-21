@@ -11,4 +11,6 @@ We use :
 
 countVectorizer to calculate the number of occurance of each word in a message
 
-MultinomialNB to associate the number of occurance of a given word to the classification of the message.
+MultinomialNB to associate the number of occurance of a given word to the classification of the message
+
+if you want to use this code don't forget to to add the path in the two last lines of the first cell in the IPYNB.
